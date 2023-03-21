@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Password01",
+    "database": "crud2",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+  
+}
